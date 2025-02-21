@@ -291,7 +291,8 @@ li {
   display: inline-block;
   position: relative;
   padding: 5px 10px;
-  font-weight: 300;
+  font-family: 'Helvetica';
+  font-weight: 400;
 }
 
 .menu-area nav ul li a.active {
