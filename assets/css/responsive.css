@@ -5,6 +5,9 @@
         max-width: 620px;
         letter-spacing: -3px;
     }
+    .container {
+        width: 90%;
+    }
 }
 
 
